@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m a computer science student<br>🌱 i know the basic of C++ and i’m currently learning Java
+🔭 I’m a computer science student<br>
+🌱 I know the basic of C++ <br>
+🌱 I’m currently learning Java
 
 
 # 💻 Tech Stack:
